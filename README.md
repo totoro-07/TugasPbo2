@@ -34,3 +34,5 @@ Kode ini juga membuat tiga objek mahasiswa: mahasiswa1, mahasiswa2, dan mahasisw
 
 Jurusan kemudian ditambahkan ke dalam universitas menggunakan metode tambah_jurusan. Akhirnya, kode menampilkan daftar jurusan dalam universitas menggunakan metode tampilkan_daftar_jurusan dan daftar mahasiswa dalam setiap jurusan menggunakan metode tampilkan_daftar_mahasiswa.
 
+Disusun oleh <a href="https://github.com/totoro-07"> Ahmad Radesta
+
