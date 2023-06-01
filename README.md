@@ -6,10 +6,11 @@ Output dari program
 <img width="297" alt="ss" src="https://github.com/totoro-07/TugasPbo2/assets/95126142/c1750f03-9e9a-429f-8934-8ec4513c3e99">
 
 Kelas Mahasiswa memiliki tiga atribut: 
-  -nama
-  -nim
-  -jurusan. 
-Kelas mahasiswa memiliki metode bernama tampilkan_info untuk mencetak nama, nim, dan jurusan mahasiswa. 
+  - nama
+  - nim
+  - jurusan. 
+Kelas mahasiswa memiliki metode bernama:
+  -tampilkan_info untuk mencetak nama, nim, dan jurusan mahasiswa. 
 
 Kelas Jurusan memiliki dua atribut: 
   -nama_jurusan 
