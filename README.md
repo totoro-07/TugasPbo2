@@ -10,20 +10,20 @@ Kelas Mahasiswa memiliki tiga atribut:
   - nim
   - jurusan. 
 Kelas mahasiswa memiliki metode bernama:
-  -tampilkan_info untuk mencetak nama, nim, dan jurusan mahasiswa. 
+  - tampilkan_info untuk mencetak nama, nim, dan jurusan mahasiswa. 
 
 Kelas Jurusan memiliki dua atribut: 
-  -nama_jurusan 
-  -daftar_mahasiswa. 
+  - nama_jurusan 
+  - daftar_mahasiswa. 
 Kelas jurusan memiliki dua metode: 
-  -tambah_mahasiswa yang menambahkan objek mahasiswa ke dalam daftar mahasiswa 
-  -tampilkan_daftar_mahasiswa yang menampilkan daftar mahasiswa dalam jurusan. 
+  - tambah_mahasiswa yang menambahkan objek mahasiswa ke dalam daftar mahasiswa 
+  - tampilkan_daftar_mahasiswa yang menampilkan daftar mahasiswa dalam jurusan. 
 
 Kelas Universitas memiliki satu atribut: 
-  -nama_universitas dan daftar_jurusan. 
+  - nama_universitas dan daftar_jurusan. 
 Kelas Universita memiliki dua metode: 
-  -tambah_jurusan yang menambahkan objek jurusan ke dalam daftar jurusan 
-  -tampilkan_daftar_jurusan yang menampilkan daftar jurusan dalam universitas.
+  - tambah_jurusan yang menambahkan objek jurusan ke dalam daftar jurusan 
+  - tampilkan_daftar_jurusan yang menampilkan daftar jurusan dalam universitas.
   
 pada kode program tersebut saya membuat tiga objek: jurusan_1, jurusan_2, dan universitas_xyz. 
 Kode ini juga membuat tiga objek mahasiswa: mahasiswa1, mahasiswa2, dan mahasiswa3. Objek mahasiswa ditambahkan ke dalam jurusan masing-masing menggunakan metode tambah_mahasiswa. 
